@@ -23,15 +23,15 @@ All you have to know is:
 
 ## Pictures
 
-![Main Menu](images/main_menu.jpg "Main Menu")
+![Main Menu](./images/main_menu.jpg "Main Menu")
 
-![Create New Animal](images/create_new_animal.jpg "Create New Animal")
+![Create New Animal](./images/create_new_animal.jpg "Create New Animal")
 
-![Create New Found Animal](images/create_new_found_animal.jpg "Create New Found Animal")
+![Create New Found Animal](./images/create_new_found_animal.jpg "Create New Found Animal")
 
-![Create New Lost Animal](images/create_new_lost_animal.jpg "Create New Lost Animal")
+![Create New Lost Animal](./images/create_new_lost_animal.jpg "Create New Lost Animal")
 
-![Create New Owner](images/create_new_owner.jpg "Create New Owner")
+![Create New Owner](./images/create_new_owner.jpg "Create New Owner")
   
 [Official page of the program](https://www.sheltermanager.com/)
 
@@ -39,4 +39,4 @@ All you have to know is:
 
 [Greek Article](https://eiosifidis.blogspot.com/2012/05/animal-shelter-manager-livecd.html)
 
-DISCLAIMER: Logos and trade names of Animal Shelter Manager and PCLinuxOS, do not belong to me.
+**DISCLAIMER:** Logos and trade names of Animal Shelter Manager and PCLinuxOS, do not belong to me.
