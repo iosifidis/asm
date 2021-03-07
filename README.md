@@ -8,7 +8,7 @@ After you download the ISO, burn it to a cd.
 Start your computer with the disk in it.  
 Automatically it'll open the program. Use  
   
-> USERNAME: user
+> USERNAME: user  
 > PASSWORD: letmein
   
 After you login, you can create a user.
@@ -17,8 +17,8 @@ If you like it, you can install it to your disk.
 When you open your computer, choose Install and follow the instructions given at the website (it's in Greek but you can understand because there are pictures).
 All you have to know is:  
   
-> USERNAME: asm
-> PASSWORD: asm
+> USERNAME: asm  
+> PASSWORD: asm  
 > ROOT PASS: asm
   
 [Official page of the program](https://www.sheltermanager.com/)
