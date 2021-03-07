@@ -8,8 +8,8 @@ After you download the ISO, burn it to a cd.
 Start your computer with the disk in it.  
 Automatically it'll open the program. Use  
   
-> USERNAME: user  
-> PASSWORD: letmein
+> USERNAME: **user**  
+> PASSWORD: **letmein**
   
 After you login, you can create a user.
   
@@ -17,9 +17,9 @@ If you like it, you can install it to your disk.
 When you open your computer, choose Install and follow the instructions given at the website (it's in Greek but you can understand because there are pictures).
 All you have to know is:  
   
-> USERNAME: asm  
-> PASSWORD: asm  
-> ROOT PASS: asm
+> USERNAME: **asm**  
+> PASSWORD: **asm**  
+> ROOT PASS: **asm**
 
 ## Pictures
 
@@ -29,7 +29,7 @@ All you have to know is:
 ![Create New Animal](https://1.bp.blogspot.com/-d5NYG-MoV1A/YEToTGZrnxI/AAAAAAAAwjw/AZOXrOlwaoQS3Cy0ojcSo5iiuAxUIY6YgCLcBGAsYHQ/w640-h512/create_new_animal.png "Create New Animal")  
 **Create New Animal**
 
-![Create New Found Animal](https://1.bp.blogspot.com/-6DHN1SILoPc/YETow80ezuI/AAAAAAAAwkI/EUTpsjatkcs5QrUpmEWYMjwsJnjc50RdQCLcBGAsYHQ/w640-h512/create_new_found_animal.png "Create New Found Animal")
+![Create New Found Animal](https://1.bp.blogspot.com/-6DHN1SILoPc/YETow80ezuI/AAAAAAAAwkI/EUTpsjatkcs5QrUpmEWYMjwsJnjc50RdQCLcBGAsYHQ/w640-h512/create_new_found_animal.png "Create New Found Animal")  
 **Create New Found Animal**  
 
 ![Create New Lost Animal](https://1.bp.blogspot.com/-_xbNi5zkJDE/YETopbNr0sI/AAAAAAAAwkA/IiUgQzGL59wW4cwNu_Laz-JTJhF59vFNgCLcBGAsYHQ/w640-h512/create_new_lost_animal.png "Create New Lost Animal")  
